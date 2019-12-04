@@ -53,7 +53,7 @@ body{
 .welcome2{
     width: 50%;
     position: absolute;
-    z-index: 10;
+    z-index: 1;
     margin-left: 40%;
 }
 .name{
@@ -62,7 +62,7 @@ body{
     font-size: 500%;
 }
 .tags{
-    text-align: right;
+    text-align: center;
     color: rgb(126, 118, 118);
     vertical-align: left;
     line-height: 20px;
